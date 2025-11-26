@@ -1,0 +1,32 @@
+Command Mode (when a cell is not being edited):
+
+Esc then A: Insert cell above
+Esc then B: Insert cell below
+Esc then DD: Delete selected cell(s)
+Esc then M: Change cell to Markdown
+Esc then Y: Change cell to Code
+Esc then L: Show line numbers
+Ctrl + M A or Cmd + M A: Select all cells
+Ctrl + M S or Cmd + M S: Save and checkpoint
+Ctrl + M J or Cmd + M J: Select next cell
+Ctrl + M K or Cmd + M K: Select previous cell
+Shift + Enter: Run cell, select next
+Ctrl + Enter: Run selected cell(s)
+Alt + Enter: Run cell, insert next
+Edit Mode (when you are typing inside a cell):
+
+Ctrl + Enter: Run selected cell(s)
+Shift + Enter: Run cell, select next
+Alt + Enter: Run cell, insert next
+Ctrl + / or Cmd + /: Comment/uncomment selected lines
+Tab: Indent (or auto-complete)
+Shift + Tab: Unindent
+Ctrl + Shift + F: Find and replace
+Ctrl + [ or Cmd + [: Indent code
+Ctrl + ] or Cmd + ]: Dedent code
+General Colab Shortcuts:
+
+Ctrl + S or Cmd + S: Save notebook
+Ctrl + M I or Cmd + M I: Interrupt execution
+Ctrl + M . or Cmd + M .: Restart runtime
+Ctrl + M H or Cmd + M H: Show keyboard shortcuts (this will open a dialog with all available shortcuts!)
